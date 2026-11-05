@@ -63,7 +63,7 @@ h1, h2, h3 {
   justify-content: space-between;
   align-items: center;
   padding-top: 24px;
-  padding-bottom: 24px;
+  padding-bottom: 24px
 }
 
 .nav { display: flex; align-items: center; }
